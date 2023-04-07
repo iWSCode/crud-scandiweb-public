@@ -1,0 +1,15 @@
+{
+    "name": "weverton-sec/crud-scrandiweb",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Weverton de Souza",
+            "email": "weverton962010@gmail.com"
+        }
+    ],
+    "require": {}
+}
